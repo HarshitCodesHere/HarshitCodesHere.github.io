@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buildlab-class.me/sitemap.xml
